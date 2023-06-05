@@ -1,1 +1,1 @@
-# ALX higher-level programming | Pytho
+# ALX higher-level programming | Python
